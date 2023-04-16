@@ -1,0 +1,4 @@
+[pycodestyle]
+max-line-length = 240
+
+disable=C0103,C0114,C0115,C0116,W0401,W0702,E5142,C0415,W0614,W0012
